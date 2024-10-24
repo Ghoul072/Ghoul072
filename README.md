@@ -1,2 +1,2 @@
-[![Ghoul Github Stats Dark](https://github-readme-stats-ghoul072s-projects.vercel.app/api?username=Ghoul072&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ghoul072/github-readme-stats#gh-dark-mode-only)
+[![Ghoul Github Stats Dark](https://github-readme-stats-ghoul072s-projects.vercel.app/api?username=Ghoul072&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Ghoul072/github-readme-stats#gh-dark-mode-only)
 [![Ghoul Github Stats Light](https://github-readme-stats-ghoul072s-projects.vercel.app/api?username=Ghoul072&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ghoul072/github-readme-stats#gh-light-mode-only)
